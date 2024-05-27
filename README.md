@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saeidj69
 - 👀 I’m interested in Front-End development technologies
-- 🌱 I’m currently learning React,Angalar,Vus , ....
+- 🌱 I’m currently developing with React,Next,javascipt , ....
 - 💞️ I’m looking to collaborate on Front-End job position
 
 <!---
